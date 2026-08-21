@@ -30,7 +30,7 @@ An embedded 6-DOF flight computer designed for active thrust vector control, rea
 
 ## Telemetry Log & Flight Performance
 
-Flight performance data captured during test logging (stored in [`telemetry/espnowfile.csv`](telemetry/espnowfile.csv)):
+Flight performance data captured during test logging (stored in [`telemetry/espnowfile.csv`](espnowfile.csv)):
 
 * **Peak Altitude:** `0.61 m` (Barometric filtered)
 * **Peak Acceleration:** `1.40 g`
