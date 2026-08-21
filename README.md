@@ -2,7 +2,7 @@
 
 An embedded 6-DOF flight computer designed for active thrust vector control, real-time wireless ground station telemetry, and high-rate flash logging. Built around the **ESP32**, **MPU-6050** IMU, and **BMP280** barometric sensor.
 
-![Flight Telemetry Plot](flight_telemetry_clean.png)
+![Flight Telemetry Plot](IMG_5555.png)
 
 ---
 
